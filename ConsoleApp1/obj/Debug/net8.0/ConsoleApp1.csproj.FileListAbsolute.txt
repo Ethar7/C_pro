@@ -1,0 +1,14 @@
+/home/ethar/Desktop/c#_pro/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/ethar/Desktop/c#_pro/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/ethar/Desktop/c#_pro/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/ethar/Desktop/c#_pro/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/ethar/Desktop/c#_pro/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/ethar/Desktop/c#_pro/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
